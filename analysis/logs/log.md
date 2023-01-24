@@ -5,6 +5,8 @@ Following the [Rose/Bud/Thorn](https://www.panoramaed.com/blog/rose-bud-thorn-ac
 
 ### Rose:
 The highlight from the previous FOSS session, such as something you found particularly interesting. This could also be something you're excited to implement now.
+This is a simple markdown file to test a new commit.
+Here is a first commit.
 
 ### Bud: 
 Something that you are looking forward to digging into deeper. This could also be ideas on how to apply concepts to your research in the future. 
